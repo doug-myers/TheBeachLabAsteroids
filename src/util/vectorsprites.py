@@ -22,8 +22,8 @@ import os
 import math
 import random
 from math import *
-from util.vector2d import *
-from util.geometry import *
+from src.util.vector2d import *
+from src.util.geometry import *
 
 
 class VectorSprite:
